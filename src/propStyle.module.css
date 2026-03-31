@@ -4,7 +4,7 @@
     padding: 30px;
     margin: 10px;
     width: 200px;
-    height: 350px;
+    height: 450px;
     text-align: center;
     border-radius: 20px;
 }
@@ -19,7 +19,7 @@
     color: yellow;
 }
 .card h2{
-    color: blue;
+    color: rgb(242, 158, 197);
 }
 .card li{
     color: blanchedalmond;

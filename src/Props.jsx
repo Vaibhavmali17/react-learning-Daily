@@ -2,7 +2,7 @@ import React from 'react'
 import propstyle from './propStyle.module.css'
 // props is keyword or parameter use in child comp.
 // const Props = (props) => {
-    const Props = ({sub, Tname, Eid ,Hobbies, result, address}) => {
+    const Props = ({sub, Tname, Eid ,Hobbies, result, address, msg}) => {
     // let propStyle = {
     //     backgroundColor : "green" ,
     //     color :  "yellow",
@@ -15,10 +15,14 @@ import propstyle from './propStyle.module.css'
     // }
   return (
     <div>
+      {/* props is diffrent types */}
         <section className={propstyle.card}>
             {/* <h1>{props.sub}</h1>  */}
+            {/* string datatype */}
             <h1>{sub}</h1>
         <h3> Traniner : {Tname}</h3> 
+
+        {/* interger datatype */}
         <h4>id : {Eid}</h4>
 
         {/* array datatype */}
@@ -33,6 +37,9 @@ import propstyle from './propStyle.module.css'
 
         {/* object datatype  */}
           <h5>Address : {address.dist} , {address.state}</h5>
+
+        {/* function as prop  */}
+        <h2>Msg : {msg}</h2>
 
         </section>
     </div>
