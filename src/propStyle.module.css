@@ -1,0 +1,26 @@
+.card{
+    background-color: black;
+    color: red;
+    padding: 30px;
+    margin: 10px;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    border-radius: 20px;
+}
+.card h1{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.card h3{
+    color: aqua;
+}
+.card h4{
+    color: yellow;
+}
+.card h2{
+    color: blue;
+}
+.card li{
+    color: blanchedalmond;
+}
