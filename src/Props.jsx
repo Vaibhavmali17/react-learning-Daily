@@ -2,7 +2,7 @@ import React from 'react'
 import propstyle from './propStyle.module.css'
 // props is keyword or parameter use in child comp.
 // const Props = (props) => {
-    const Props = ({sub, Tname, Eid ,Hobbies}) => {
+    const Props = ({sub, Tname, Eid ,Hobbies, result, address}) => {
     // let propStyle = {
     //     backgroundColor : "green" ,
     //     color :  "yellow",
@@ -27,6 +27,13 @@ import propstyle from './propStyle.module.css'
             return <li>{ele}</li>
         })}
         </ul>
+        {/* boolean datatype  */}
+        {/* condition ? "stmt 1" : "stmt 2" */}
+        <h4>Is Pass : {result ? "pass" : "fail" }</h4>
+
+        {/* object datatype  */}
+          <h5>Address : {address.dist} , {address.state}</h5>
+
         </section>
     </div>
   )
