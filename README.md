@@ -1,16 +1,79 @@
-# React + Vite
+# 🚀 React Learning Daily
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About This Repository
 
-Currently, two official plugins are available:
+This repository contains my daily progress in learning React.js.
+I am building small practical components and mini projects to strengthen my frontend development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🧠 What I Have Learned
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🔹 JavaScript Concepts
 
-## Expanding the ESLint configuration
+* Object Destructuring
+* Arrow Functions
+* Array Methods (`map`, `filter`)
+* Spread Operator
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### ⚛️ React Concepts
+
+* JSX (JavaScript XML)
+* Components (Reusable UI Blocks)
+* Props (Parent → Child Data Passing)
+* Dynamic List Rendering using `map()`
+* Dynamic Table Creation
+* Image Handling (Relative & Absolute Path)
+
+---
+
+### 🎨 CSS & Styling
+
+* Inline CSS
+* Global CSS
+* CSS Modules (`.module.css`)
+* CSS Box Model (Margin, Padding, Border)
+
+---
+
+### ⚙️ Tools & Setup
+
+* Vite (Fast React Build Tool)
+* Module Bundler Concept
+
+---
+
+## 💻 Features Implemented
+
+* ✅ Dynamic Student List
+* ✅ Dynamic Table UI
+* ✅ Image Rendering
+* ✅ Component-based Architecture
+* ✅ Styled UI using CSS Modules
+
+---
+
+## 🎯 Learning Outcome
+
+* Improved understanding of React fundamentals
+* Hands-on practice with real UI components
+* Better knowledge of modern JavaScript (ES6+)
+
+---
+
+## 🚀 Future Goals
+
+* useState & useEffect
+* API Integration
+* React Router
+* Full Stack Development (Spring Boot + React)
+
+---
+
+
+## 👨‍💻 Author
+
+vaibhav mali
+
