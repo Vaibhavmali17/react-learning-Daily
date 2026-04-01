@@ -50,6 +50,7 @@ I am building small practical components and mini projects to strengthen my fron
 * ✅ Dynamic Student List
 * ✅ Dynamic Table UI
 * ✅ Image Rendering
+* ✅ 20 Cards Create Dynamicaly
 * ✅ Component-based Architecture
 * ✅ Styled UI using CSS Modules
 
