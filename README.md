@@ -29,7 +29,7 @@ React-Project/
 - Image rendering
 - Event handling (onClick)
 - CSS styling
-### ✅ Day 4–10
+### ✅ Day 4–20
 - React Router (Navigation without reload)
 - Multiple Pages (Home, About, Services)
 - Navbar & Footer
