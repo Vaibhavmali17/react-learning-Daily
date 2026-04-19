@@ -9,6 +9,7 @@ React-Project/
 ├─ practice-project/
 ├─ cards20-Dynamicaly/
 ├─ react-firstproject/
+├─ react-Project-Router/
 
 
 ---
@@ -28,6 +29,14 @@ React-Project/
 - Image rendering
 - Event handling (onClick)
 - CSS styling
+### ✅ Day 4–10
+- React Router (Navigation without reload)
+- Multiple Pages (Home, About, Services)
+- Navbar & Footer
+- Login & Signup Form (Basic Validation)
+- useState Hook (Form handling)
+- CSS Modules
+- Project structuring & clean code
 
 ---
 
@@ -48,6 +57,7 @@ React-Project/
 - Component reusability
 - Event handling
 - Clean folder structure
+- useState & Hooks
 
 ---
 
@@ -59,7 +69,6 @@ npm install
 npm run dev
 
 📌 Future Plans
-useState & Hooks
 API Integration
 Add to Cart Feature
 Full React Projects
