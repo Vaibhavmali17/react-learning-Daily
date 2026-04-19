@@ -1,0 +1,30 @@
+.navbar {
+  height: 70px;
+  width: 100%;
+  background-color: dimgray;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  gap: 30px;
+}
+
+.navbar li {
+  list-style: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 8px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* .navbar li:hover {
+  transform: scale(1.05);
+} */
+  .navbar img{
+    height: 50px;
+    width: 50px;
+  }
+  img{
+    margin-right: 1000px;
+  }

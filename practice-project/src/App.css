@@ -8,3 +8,7 @@
     border-width: 4;
     border-color: red;
 } */
+.box{
+    border: solid;
+    padding: 20px;
+}

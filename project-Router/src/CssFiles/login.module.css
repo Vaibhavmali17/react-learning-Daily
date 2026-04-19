@@ -1,0 +1,33 @@
+
+.container {
+  background-color: rgb(144, 155, 176);
+  height: 600px;            
+  display: flex;
+  justify-content: center;  
+  align-items: center;       
+}
+
+.box {
+  height: 200px;
+  width: 300px;
+  padding: 20px; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  background-color: white;
+}
+
+.box input {
+  width: 90%;
+  margin: 20px 0;
+  padding: 8px;
+}
+
+.box button {
+  width: 100%;
+  padding: 10px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

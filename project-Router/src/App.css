@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    min-height: 70px;
+    width: 100%;
+    background-color: royalblue;
+}
+.navbar li{
+  color: white;
+  font-weight: 900;
+  font-size: 25px;
+  padding-left: 30px;
+  list-style: none;
+}
+.navbar a{
+    text-decoration: none;
+}
